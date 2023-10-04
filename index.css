@@ -1,0 +1,31 @@
+body{
+    background-color: white;
+}
+li{
+    display: inline;
+}
+a{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    padding-left: 15px;
+    text-decoration: none;
+    color: black;
+}
+#para1{
+    display: flex;
+}
+nav{
+    padding-top: 30px;
+
+}
+#img1{
+    width:80%
+}
+button{
+    border-radius: 12px;
+    height: 30px;
+    width: 150px;
+}
+#img2{
+    width:80%
+}
+

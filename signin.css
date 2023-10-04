@@ -1,0 +1,18 @@
+a{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    padding-left: 15px;
+    text-decoration: none;
+    color: black;
+}
+li{
+    display: inline;
+}
+nav{
+    padding-top: 30px;
+}
+#para1{
+    display: flex;
+}
+iframe{
+    height: 100%;
+}

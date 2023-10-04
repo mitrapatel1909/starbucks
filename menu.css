@@ -1,0 +1,42 @@
+body{
+    background-color: white;
+}
+li{
+    display: inline;
+}
+a{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    padding-left: 15px;
+    text-decoration: none;
+    color: black;
+}
+#para1{
+    display: flex;
+}
+nav{
+    padding-top: 30px;
+
+}
+#img1{
+    border-radius: 100%;
+    width: 180px;
+}
+#crumbl{
+    border-radius: 12px;
+}
+#img2{
+    border-radius: 100%;
+    width: 180px;
+}
+#caramel{
+    border-radius: 12px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+#img3{
+    border-radius: 70%;
+    width: 180px;
+    height: 180px;
+}
+#capp{
+    border-radius: 12px;
+}
